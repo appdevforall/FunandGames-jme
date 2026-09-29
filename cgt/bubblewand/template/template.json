@@ -1,6 +1,6 @@
 {
-    "name": "Bubble Wand",
-    "description": "Creates a Bubble Wand Shooter Game",
+    "name": "Bubble Wand (jME)",
+    "description": "Creates a Bubble Wand Shooter Game (jME)",
     "version": "0.1",
     "parameters": {
         "required": {

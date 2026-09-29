@@ -1,6 +1,6 @@
 {
-    "name": "Tetris",
-    "description": "Creates a tetris Game",
+    "name": "Tetris (jME)",
+    "description": "Creates a tetris Game (jME)",
     "version": "0.1",
     "parameters": {
         "required": {
