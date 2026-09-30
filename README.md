@@ -11,7 +11,7 @@ project that builds and runs on the device.
 | **Bubble Wand (jME)** | Kotlin | jME 3.9.0 | First-person shooter: catch floating balloon animals in bubbles using an on-screen D-pad and FIRE button |
 
 A libGDX version of the same three games lives in
-[FunandGames-libCDX](https://github.com/appdevforall/FunandGames-libCDX).
+[FunandGames-libGDX](https://github.com/appdevforall/FunandGames-libGDX).
 
 ## Install in Code On The Go
 
