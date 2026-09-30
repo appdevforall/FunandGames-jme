@@ -15,8 +15,8 @@ A libGDX version of the same three games lives in
 
 ## Install in Code On The Go
 
-1. Download [`FunandGames-jme.cgt`](FunandGames-jme.cgt) to the device.
-2. Open it with Code On The Go (for example by tapping the file in a file manager) and choose **Install**.
+1. Download [`FunandGames-jme.cgt`](FunandGames-jme.cgt) to the device's /sdcard/Download folder.
+2. Use the Add-ons Manager in Preferences to install it.
 3. **Create a new project** → pick **Demo (jME)**, **Tetris (jME)** or **Bubble Wand (jME)** → name it → **Create**.
 4. Wait for "Project initialized", then tap **Run**.
 
